@@ -1,0 +1,11 @@
+nome categoria salarioBase
+vendas
+Rui g 10000,00 0,00
+Ivo b 1800,00 25000,00
+Iumi e 2600,00 23000,00
+Nei g 7000,00 0,00
+Susi e 2500,00 17000,00
+Alan b 2000,00 19000,00
+Ian b 1500,00 18000,00
+Bia e 2900,00 20000,00
+Gil b 2000,00 21000,00
